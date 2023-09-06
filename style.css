@@ -1,11 +1,74 @@
 h1 {
     color: #4169e1;
+    text-align: center;
+    margin-top: -875px;
+    
 }
 
 p {
     color: white;
+    margin-left: 225px;
 }
 
 body {
     background-color: black;
+}
+
+header {
+    background-color: white;
+    margin-bottom:-25px;
+}
+
+aside {
+    background-color: blue;
+    width: 225px;
+    margin-top: 25px;
+    padding-bottom: 850px;
+    
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+.navli1 {
+    display: inline;
+    margin-left: 12%;
+    margin-right: 6%;
+    
+}
+.navli2 {
+    display: inline;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+.navli3 {
+    display: inline;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+.navli4 {
+    display: inline;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+.navli5 {
+    display: inline;
+    margin-left: 6%;
+    margin-right: 12%;
+}
+
+a {
+    color: red;
+}
+
+a:hover {
+color: aqua;
+}
+
+.asidep {
+    margin-left: 0%;
 }
