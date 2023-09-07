@@ -6,29 +6,33 @@ h1 {
 }
 
 p {
-    color: white;
+    color:chartreuse;
     margin-left: 250px;
 
 }
 
 .lists {
-    color: white;
+    color: chartreuse;
     margin-left: 250px;
 }
 
 body {
     background-color: black;
-
+    background-image: url(pictures/undertale.gif);
+    background-repeat: no-repeat;
+    background-size: 1250px;
 }
 
+
+
 header {
-    background-color: white;
+    background-color: black;
     margin-bottom: -25px;
-    padding-bottom: 15px;
+    padding-bottom: 17px;
 }
 
 aside {
-    background-color: blue;
+    background-color: transparent;
     width: 225px;
     margin-top: 25px;
     padding-bottom: 850px;
@@ -61,7 +65,7 @@ a:hover {
 }
 
 #marked {
-    background-color: blueviolet
+    background-color: white;
 }
 
 #testimg {
@@ -70,6 +74,9 @@ a:hover {
 
 nav {
     font-size: 30px;
+    position: fixed;
+    background-color: black;
+    width: 100%;
 }
 
 .navli1,
@@ -81,6 +88,6 @@ nav {
 }
 
 ol {
-    color: white;
+    color: chartreuse;
     margin-left: 250px;
 }
