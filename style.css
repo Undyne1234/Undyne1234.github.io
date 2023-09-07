@@ -1,49 +1,56 @@
 h1 {
-    color: #4169e1;
+    color: royalblue;
     text-align: center;
-    margin-top: -875px;
+    margin-top: -200px;
 
 }
 
 p {
-    color:chartreuse;
+    color: white;
     margin-left: 250px;
-
 }
 
 .lists {
-    color: chartreuse;
+    color: white;
     margin-left: 250px;
 }
 
 body {
-    background-color: black;
+    background-color: #040204;
     background-image: url(pictures/undertale.gif);
     background-repeat: no-repeat;
     background-size: 1250px;
+    background-position: 650px;
+    background-position-y: -100px;
 }
 
 
 
 header {
-    background-color: black;
     margin-bottom: -25px;
     padding-bottom: 17px;
+    background-color: #040204;
 }
 
 aside {
     background-color: transparent;
     width: 225px;
-    margin-top: 25px;
-    padding-bottom: 850px;
+    margin-top: 100px;
+    padding-bottom: 50px;
+    margin-right: 0%;
 
 
 }
 
+.asideli {
+    margin-top: 50px;
+}
+
 ul {
     list-style-type: none;
-    margin: 0;
     padding: 0;
+    margin: 0;
+    
 }
 
 .ul2 {
@@ -57,15 +64,12 @@ a {
 }
 
 a:hover {
-    color: aqua;
+    color: orange;
 }
 
-.asidep {
-    margin-left: 0%;
-}
 
 #marked {
-    background-color: white;
+    background-color: #040204;
 }
 
 #testimg {
@@ -75,7 +79,7 @@ a:hover {
 nav {
     font-size: 30px;
     position: fixed;
-    background-color: black;
+    background-color: white;
     width: 100%;
 }
 
@@ -88,6 +92,6 @@ nav {
 }
 
 ol {
-    color: chartreuse;
+    color: white;
     margin-left: 250px;
 }
