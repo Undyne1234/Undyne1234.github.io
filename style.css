@@ -5,9 +5,10 @@ h1 {
 
 }
 
-p {
+p,br {
     color: white;
     margin-left: 250px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .lists {
@@ -50,6 +51,7 @@ ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
 }
 
@@ -94,4 +96,5 @@ nav {
 ol {
     color: white;
     margin-left: 250px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
