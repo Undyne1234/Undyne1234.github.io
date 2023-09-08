@@ -1,12 +1,14 @@
 h1 {
     color: royalblue;
     text-align: center;
-    margin-top: -200px;
+    margin-top: -240px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
 
-p,br {
+/* organise this mess */
+p,
+br {
     color: white;
     margin-left: 250px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -42,6 +44,7 @@ aside {
     margin-right: 0%;
 
 
+
 }
 
 .asideli {
@@ -53,7 +56,7 @@ ul {
     padding: 0;
     margin: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
+
 }
 
 .ul2 {
@@ -84,6 +87,8 @@ nav {
     position: fixed;
     background-color: white;
     width: 100%;
+    top: 0;
+
 }
 
 .navli1,
@@ -92,10 +97,21 @@ nav {
 .navli4,
 .navli5 {
     display: inline;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.navlink {
+    text-decoration: none;
 }
 
 ol {
     color: white;
     margin-left: 250px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.sidepic {
+    width: 225px;
+    margin-top: -45px;
 }
