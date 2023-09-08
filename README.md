@@ -1,1 +1,1 @@
-this is all for a school projects pls ignore everything
+this is all for school projects pls ignore everything
