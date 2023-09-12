@@ -64,6 +64,18 @@ input {
     color: #82EEFD;
     background-color: transparent;
 }
+
+/*progress bar */
+.progressbar1 {
+    margin-left: 250px;
+    color: #82EEFD;
+}
+
+#progressbar {
+width: 870px;
+color: red;
+}
+
 /* organise this mess */
 
 .lists {
