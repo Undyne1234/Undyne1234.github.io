@@ -1,3 +1,4 @@
+/* main parts */
 h1 {
     color: royalblue;
     text-align: center;
@@ -6,17 +7,19 @@ h1 {
 
 }
 
-/* organise this mess */
-p,
-br {
-    color: white;
-    margin-left: 250px;
+h2,
+h3 {
+    color: #82EEFD;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 250px;
 }
 
-.lists {
-    color: white;
+p,
+br {
+    color: #82EEFD;
     margin-left: 250px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 525px;
 }
 
 body {
@@ -28,12 +31,44 @@ body {
     background-position-y: -100px;
 }
 
-
-
 header {
     margin-bottom: -25px;
     padding-bottom: 17px;
     background-color: #040204;
+}
+
+/* Table style */
+table {
+    margin-left: 250px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 1px solid;
+    border-color: white;
+    border-collapse: collapse;
+}
+
+.thtop {
+    color: royalblue;
+}
+
+th,
+td {
+    border: 1px solid;
+    border-color: white;
+}
+
+td {
+    color: #82EEFD;
+}
+
+input {
+    color: #82EEFD;
+    background-color: transparent;
+}
+/* organise this mess */
+
+.lists {
+    color: #82EEFD;
+    margin-left: 250px;
 }
 
 aside {
@@ -47,8 +82,8 @@ aside {
 
 }
 
-.asideli {
-    margin-top: 50px;
+.liaside {
+    margin-bottom: 50px;
 }
 
 ul {
@@ -58,11 +93,6 @@ ul {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
-
-.ul2 {
-    list-style-type: disc;
-}
-
 
 a {
     color: red;
@@ -106,40 +136,13 @@ nav {
 }
 
 ol {
-    color: white;
+    color: #82EEFD;
     margin-left: 250px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 525px;
 }
 
 .sidepic {
     width: 225px;
     margin-top: -45px;
 }
-
-/* Table style */
-table {
-    margin-left: 250px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    border: 1px solid;
-    border-color: white;
-}
-
-.thtop {
-    color: royalblue;
-}
-
-th,
-td {
-    border: 1px solid;
-    border-color: white;
-}
-
-td {
-    color:aquamarine;
-}
-
-input {
-    color: aquamarine;
-    background-color: transparent;
-}
-
