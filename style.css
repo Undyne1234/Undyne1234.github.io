@@ -75,6 +75,17 @@ input {
 width: 870px;
 }
 
+/*pictures*/
+#cc {
+    float: left;
+    margin-left: 250px;
+}
+#rpg {
+    float: left;
+    margin-left: 20px;
+    
+}
+
 /* organise this mess */
 
 .lists {
@@ -139,7 +150,9 @@ nav {
 .navli5 {
     display: inline;
     text-decoration: none;
-    margin-left: 20px;
+    padding-left: 25px;
+    padding-right: 10px;
+    
 }
 
 .navlink {
