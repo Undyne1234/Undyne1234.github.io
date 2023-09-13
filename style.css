@@ -31,6 +31,10 @@ body {
     background-position-y: -100px;
 }
 
+#blogpostback {
+    background-image: none;
+}
+
 header {
     margin-bottom: -25px;
     padding-bottom: 17px;
@@ -73,6 +77,32 @@ input {
 
 #progressbar {
 width: 870px;
+}
+
+/*Blog*/
+.blog, .blog2 {
+background-color: transparent;
+width: 350px;
+margin-left: 240px;
+border-radius: 25px;
+border-style: inset;
+display: inline-block;
+}
+
+.blog2 {
+    margin-left: 10px;
+}
+
+.pblog {
+    margin-left: 5px;
+    width: 340px;
+}
+
+.h2blog {
+    color: royalblue;
+    text-align: center;
+    margin-left: 0px;
+
 }
 
 /*pictures*/
